@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: grey;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: purple;
+    text-align: center;
+}
+p {
+    font-size: 16px;
+    color: black;
+    text-align: center;
+}
+#botonCambiar {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: violet;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#botonCambiar:hover {
+    background-color: olivedrab;
+}
